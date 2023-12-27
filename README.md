@@ -12,7 +12,6 @@
 <a href="#-conte%C3%BAdo-da-trilha"> Conteúdo da Trilha</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-instala%C3%A7%C3%A3o">Instalação</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-suporte"> Suporte </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-licen%C3%A7a">Licença</a>
 </p>
 
 <div align="center">
